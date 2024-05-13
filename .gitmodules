@@ -1,0 +1,6 @@
+[submodule "use_cases/QHyper"]
+	path = use_cases/QHyper
+	url = https://github.com/qc-lab/QHyper
+[submodule "QHyper"]
+	path = QHyper
+	url = https://github.com/qc-lab/QHyper
